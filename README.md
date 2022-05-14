@@ -1,3 +1,5 @@
+:warning: **This repo was moved to https://github.com/ssbc/ssb-d2-box2.** This archival will remain in this GitHub org `ssb-ngi-pointer` to demonstrate the outcome of the work done by the SSB NGI Pointer team during 2020 and 2021. The SSB NGI Pointer team is no longer active because we completed our grant project.
+
 # SSB-DB2-Box2
 
 A module for working with box2 in [SSB DB2]. Messages created using
